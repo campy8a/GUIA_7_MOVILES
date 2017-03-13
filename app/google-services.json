@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "528913216219",
+    "firebase_url": "https://fvr-sports.firebaseio.com",
+    "project_id": "fvr-sports",
+    "storage_bucket": "fvr-sports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528913216219:android:d020f8ba4520c667",
+        "android_client_info": {
+          "package_name": "com.dhamova.fvr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528913216219-ltrrfv3ina5gqk3qkn2jvt4gr1m19455.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhamova.fvr",
+            "certificate_hash": "70BDC6581AB7DC1613BE26D4201D140F425CB5DE"
+          }
+        },
+        {
+          "client_id": "528913216219-k82ocj8gk6fqm7m2jh19ij4aqqd8u9d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZsEy1GpobtoZT7Z1FKhtjxdYJel6fiio"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528913216219-h80rq2rltbr6avfovgs8us419stf0rv5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dhamova.FVR"
+              }
+            },
+            {
+              "client_id": "528913216219-k82ocj8gk6fqm7m2jh19ij4aqqd8u9d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
